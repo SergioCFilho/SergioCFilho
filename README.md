@@ -68,7 +68,7 @@ Here you'll find my works, scars, and stories of systems that should not have ex
 
 > Doesn’t code. Judges.
 
-![demonic-cat](./images/demon_cat.jpg)  
+![demonic-cat](./images/demonic_cat.jpeg)  
 
 ---
 
