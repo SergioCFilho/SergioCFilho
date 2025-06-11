@@ -78,6 +78,7 @@ Here you'll find my works, scars, and stories of systems that should not have ex
 + Survived a system with 4 frameworks stitched together.
 - Trusted a function named "final_fix_v2_REAL_FINAL.js"
 ! Accidentally deployed at 3AM. Got promoted anyway.
+```
 
 <!--
 **SergioCFilho/SergioCFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
